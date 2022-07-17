@@ -1,10 +1,10 @@
 ## About me
 
-I am a Computer Science Ph.D. candidate at [Ohler lab](https://ohlerlab.mdc-berlin.de) at [Max Delbrück Center for Molecular Medicine](https://www.mdc-berlin.de) and [Technical University of Berlin](https://www.tu.berlin/en/). I am also affiliated with the [HEIBRiDS](http://heibrids.berlin/) Data Science Ph.D. program. 
+I am a senior mechanical engineer at [Dyson](https://www.dyson.co.uk/en) at [Max Delbrück Center for Molecular Medicine](https://www.mdc-berlin.de) and [Technical University of Berlin](https://www.tu.berlin/en/). I am also affiliated with the [HEIBRiDS](http://heibrids.berlin/) Data Science Ph.D. program. 
 
-My research interests are in the applications of Machine Learning in Computational Biology. My current focus is on uncertainty quantification in Deep Learning, representation learning and interpretability of Machine Learning methods in Genomics applications.
+My research interests are in the applications of 
 
-Prior to this, I worked as a Data Scientist at [Deutsche Post DHL Group](https://www.dpdhl.com), where I built Machine Learning solutions for text analysis and time-series prediction. I obtained my Master's degree in Computer Science, specializing in Intelligent Systems from [Technical University of Kaiserslautern](https://www.uni-kl.de) in 2016. During my Master's, I worked as a research assistant at [Max Planck Institute for Software Systems](https://www.mpi-sws.org) and the [German Research Center for Artificial Intelligence](https://www.dfki.de/en/web/research/research-departments/embedded-intelligence/), mainly focusing on development of image processing methods on mobile devices for privacy preservation.
+Prior to this, I worked as a
 
 
 ## Current projects 
